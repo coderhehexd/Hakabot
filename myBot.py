@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 #TOKEN = os.getenv('DISCORD_TOKEN')
 #GUILD = os.getenv('DISCORD_GUILD')
-TOKEN = 'VZH36BcDLPNadeitYjyQB5I87hSA2mbv'
+TOKEN = x
 GUILD = 'test_bot'
 
 client = discord.Client()
